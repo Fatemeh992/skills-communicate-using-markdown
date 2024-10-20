@@ -2,12 +2,12 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -16,12 +16,12 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
+ The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Add headers
+Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
@@ -33,23 +33,22 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-### Example
+ Example
 
 ```md
 # This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
 
-###### This is an `<h6>` header, which is the smallest
+This is an `<h6>` header, which is the smallest
 ```
+How it looks
 
-#### How it looks
+ This is an `<h1>` header, which is the largest
 
-# This is an `<h1>` header, which is the largest
+ This is an `<h2>` header
 
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
+ This is an `<h6>` header, which is the smallest
 
 ### :keyboard: Activity: Edit your file with headers
 
